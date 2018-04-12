@@ -1,1 +1,2 @@
-# Scripts for running fixity checks on GW ScholarSpace
+# ScholarSpace Fixity Checking
+Scripts for running fixity checks on GW ScholarSpace
